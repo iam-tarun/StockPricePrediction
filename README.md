@@ -1,6 +1,10 @@
 # StockPricePrediction
 Stock Price Prediction using Machine Learning
 
+# Objective
+The goal of this project is to develop a machine learning model that can predict the future price of a stock based on historical data and other relevant market indicators. Accurate stock price prediction can help investors make informed decisions about buying or selling stocks.
+
+# Project Breakdown
 1. Data Collection
 2. Data Preprocessing
 3. Model Selection
